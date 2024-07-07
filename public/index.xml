@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Old Blog of Stephen Wyatt Bush</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Old Blog of Stephen Wyatt Bush</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Apr 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Dad and The Ten Commandments of Egoless Programming&#34;</title>
+      <link>http://localhost:1313/2012-04-07-dad-and-the-ten-commandments-of-egoless-programming.html/</link>
+      <pubDate>Sat, 07 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2012-04-07-dad-and-the-ten-commandments-of-egoless-programming.html/</guid>
+      <description>Dad and I got to talk about programming for two weeks before he died.&#xA;I was 22, a senior in college completing a BFA in graphic design. Dad was 62, an older dad than most. When he started programming at Tennessee Tech back in the 60s, he wrote FORTRAN on punch cards. He was a wealth of knowledge.&#xA;I had just been introduced to code that semester, and it was already consuming my thoughts.</description>
+    </item>
+  </channel>
+</rss>
